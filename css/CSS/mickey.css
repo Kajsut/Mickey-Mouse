@@ -1,3 +1,49 @@
-body {
-    background-color: blue;
+body {background-color: black;
+font-family:'lora','cambria','calibri','arial';
 }
+
+header{ 
+    text-align: center;
+    background-color: aquamarine;
+    padding: 30px 0px 30px 0px;
+    border-radius: 90px;
+
+    
+}
+header h1{
+    color: black;
+    font-size: 50px;
+    
+}
+header img{ border-radius: 90px;
+    width: 400px;
+}
+
+main{
+   border-radius: 30px;
+    background-color: lightcoral;
+    margin: 0px auto;
+    padding-left: 60px;
+    padding-bottom: 20px;
+    min-width: 30px;
+}
+main h2{ font-size: 40px;
+    
+}
+
+main p{
+    max-width: 800px;    
+}
+
+a{color:rgb(134, 8, 63)}
+
+main img{ max-width: 100%;
+ text-align: center;
+ border-radius: 30px;
+}
+footer{
+    border-radius: 30px;
+    background-color: aquamarine;
+    padding: 15px 10px 20px 60px;
+}
+
